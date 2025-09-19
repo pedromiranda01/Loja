@@ -41,7 +41,7 @@ CREATE TABLE `produtos` (
 --
 
 INSERT INTO `produtos` (`id`, `nome`, `preco`, `quantidade`) VALUES
-(1, 'Notebook ASUS', 2599.00, 3);
+
 
 --
 -- Índices para tabelas despejadas
